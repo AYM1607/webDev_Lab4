@@ -1,0 +1,22 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+
+#shoppingList {
+    margin-top: 10px;
+}
+
+.shoppingItem {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid grey;
+    width: 500px;
+}
+
+.shoppingItem p {
+    margin: none;
+}
+
+.lineThrough {
+    text-decoration: line-through;
+}
